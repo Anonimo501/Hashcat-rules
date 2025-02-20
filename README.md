@@ -3,6 +3,7 @@
 ## Mutaciones de contraseña (HASHCAT)
 
 En el siguiente ejemplo password.list con tiene unicamente la palabra (password) pero puedes usar una lista de palabras para crear una lista mutada de contraseñas.
+Recordemos que esta es una buena forma de crear diccionarios personalizados.
 
 ## Imagenes
 
