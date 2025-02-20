@@ -11,6 +11,6 @@ cat mut_password.list
 
 ## Imagenes
 
-![Image](https://github.com/user-attachments/assets/2e34f6c4-175b-46bd-8ccf-65a5ea9cfd9e)
+<img width="513" alt="Image" src="https://github.com/user-attachments/assets/a45a3e65-6520-4dfe-8461-743a771d5329" />
 
-![Image](https://github.com/user-attachments/assets/4be7c6ed-cf86-4539-aaf7-5ea3a1ce083f)
+<img width="184" alt="Image" src="https://github.com/user-attachments/assets/effdae40-3cd4-4a60-8b72-0b11c7c91e9d" />
